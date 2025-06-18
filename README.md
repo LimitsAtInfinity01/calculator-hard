@@ -3,6 +3,8 @@
 
 # Calculator Hard
 
+### Description:
+This Micro:bit program teaches students random number generator, variables, logic and conditionals in an easy straight forward manner. 
 
 ## Use as Extension
 
