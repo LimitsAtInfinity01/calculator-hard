@@ -1,6 +1,9 @@
 
 > Open this page at [https://limitsatinfinity01.github.io/calculator-hard/](https://limitsatinfinity01.github.io/calculator-hard/)
 
+# Calculator Hard
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
